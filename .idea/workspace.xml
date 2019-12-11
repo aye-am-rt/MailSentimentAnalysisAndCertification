@@ -1,13 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c92f6dc1-e334-48cf-a8bc-1fbc427e2cc9" name="Default Changelist" comment="" />
+    <list default="true" id="c92f6dc1-e334-48cf-a8bc-1fbc427e2cc9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/python/com/cgi/AppCrt/controller/flask2Try.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/python/com/cgi/AppCrt/controller/test2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mail_to_certificate.iml" beforeDir="false" afterPath="$PROJECT_DIR$/mail_to_certificate.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Uo5kmCPDKsTiTFEzQgOuLPqlWB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,7 +25,17 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/python/com/cgi/AppCrt/controller" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\intPython2-cg\mail_to_certificate" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\intPython2-cg\mail_to_certificate\src\main\python\com\cgi\AppCrt\controller" />
+      <recent name="H:\intPython2-cg\mail_to_certificate\src\main\python\com\cgi\AppCrt" />
+    </key>
   </component>
   <component name="RunManager" selected="Python.__init__">
     <configuration name="CertificateGenerator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
