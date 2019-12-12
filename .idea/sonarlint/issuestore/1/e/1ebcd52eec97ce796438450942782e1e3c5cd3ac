@@ -1,0 +1,12 @@
+
+}python:S117l"aRename this local variable "analyzedSentence" to match the regular expression ^[_a-z][a-z0-9_]*$.(˜¥ÖÉøÿÿÿÿ
+upython:S117A"YRename this local variable "lineList" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÍÊ”ÿÿÿÿÿ
+tpython:S117Y"]Rename this local variable "sentenceList" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ý¤¦
+ppython:S117V"YRename this local variable "eachLine" to match the regular expression ^[_a-z][a-z0-9_]*$.(‹Œƒä
+lpython:S3776>"TRefactor this function to reduce its Cognitive Complexity from 46 to the 15 allowed.(¿Ë”Ë
+vpython:S117\"_Rename this local variable "isAppreciatory" to match the regular expression ^[_a-z][a-z0-9_]*$.(çû£©
+ypython:S117?"bRename this local variable "count_pos_Nonappr" to match the regular expression ^[_a-z][a-z0-9_]*$.(¶ûÅø
+ypython:S117?"bRename this local variable "count_neg_Nonappr" to match the regular expression ^[_a-z][a-z0-9_]*$.(¶ûÅø
+vpython:S117"ZRename this parameter "isAppriciatory" to match the regular expression ^[_a-z][a-z0-9_]*$.(¸—Ñ´þÿÿÿÿ
+}python:S117?"fRename this local variable "listOfAnalyzedObjects" to match the regular expression ^[_a-z][a-z0-9_]*$.(¶ûÅø
+mpython:S116"VRename this field "isAppreciatory" to match the regular expression ^[_a-z][_a-z0-9]*$.(õÑà©

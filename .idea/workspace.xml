@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c92f6dc1-e334-48cf-a8bc-1fbc427e2cc9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/com/cgi/AppCrt/controller/flask2Try.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/python/com/cgi/AppCrt/controller/test2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mail_to_certificate.iml" beforeDir="false" afterPath="$PROJECT_DIR$/mail_to_certificate.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/python/com/cgi/AppCrt/services/Sentiment_analysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/python/com/cgi/AppCrt/services/Sentiment_analysis.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,15 +28,15 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="H:\intPython2-cg\mail_to_certificate" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="H:\intPython2-cg\mail_to_certificate\src\main\python\com\cgi\AppCrt\controller" />
       <recent name="H:\intPython2-cg\mail_to_certificate\src\main\python\com\cgi\AppCrt" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\intPython2-cg\mail_to_certificate" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.__init__">
+  <component name="RunManager" selected="Python.Sentiment_analysis">
     <configuration name="CertificateGenerator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="mail_to_certificate" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -124,8 +123,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.__init__" />
         <item itemvalue="Python.Sentiment_analysis" />
+        <item itemvalue="Python.__init__" />
         <item itemvalue="Python.GetSenderReceiver" />
         <item itemvalue="Python.CertificateGenerator" />
       </list>
@@ -160,22 +159,22 @@
     <option featureType="com.intellij.fileTypeFactory" implementationName="requirements.txt" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1323" height="135" key="GridCell.Tab.0.bottom" timestamp="1576019019313">
+    <state width="1323" height="220" key="GridCell.Tab.0.bottom" timestamp="1576103673409">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="135" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1576019019313" />
-    <state width="1323" height="135" key="GridCell.Tab.0.center" timestamp="1576019019313">
+    <state width="1323" height="220" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1576103673409" />
+    <state width="1323" height="220" key="GridCell.Tab.0.center" timestamp="1576103673409">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="135" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1576019019313" />
-    <state width="1323" height="135" key="GridCell.Tab.0.left" timestamp="1576019019313">
+    <state width="1323" height="220" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1576103673409" />
+    <state width="1323" height="220" key="GridCell.Tab.0.left" timestamp="1576103673409">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="135" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1576019019313" />
-    <state width="1323" height="135" key="GridCell.Tab.0.right" timestamp="1576019019313">
+    <state width="1323" height="220" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1576103673409" />
+    <state width="1323" height="220" key="GridCell.Tab.0.right" timestamp="1576103673409">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="135" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1576019019313" />
+    <state width="1323" height="220" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1576103673409" />
     <state x="184" y="11" key="SettingsEditor" timestamp="1576010445394">
       <screen x="0" y="0" width="1366" height="738" />
     </state>

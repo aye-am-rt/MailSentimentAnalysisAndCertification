@@ -56,7 +56,9 @@ l4 = ["thank", "helpful", "indebted", "thanks", "appreciate", "inspiration", "gr
       "outstanding", "valued", "vibrant", "victorious", "victory", "vital", "well", "wonderful", "wow"]
 
 lemmatizer = WordNetLemmatizer()
+print(os.getcwd())
 os.chdir('../../../../../resources')
+print(os.getcwd())
 
 
 def read_and_analyze():
